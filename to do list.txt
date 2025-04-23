@@ -1,0 +1,5 @@
+name Elamugil
+reg no 24mcr023
+dept MCA
+favourite topic flutter
+mobile model iqqz9x
